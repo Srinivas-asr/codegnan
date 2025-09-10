@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Srinivasarao</h2>
+    <p><b>emial:</b>addakatlasrinivasarao@gmail.com</p>
+    <p>8143537207</p>
+    <p><b>linkedin:</b>addakatlasrinivas</p>
+    <hr>
+    <center><b>Career Objective</b></center>
+    <p>To obtain a challenging position in a reputable organization to expand my learnings, knowledge, and skills.</p>
+    <center><b>Educational Qualifications</b></center>
+    <b>Degree:</b><p>Bachelor of Technology in Computer Science</p>
+    <b>Institution:</b><p>Andhra Loyola college</p>
+    <b>Year of Passing:</b><p>2023</p>
+    <b>Percentage:</b><p>74%</p>
+    <hr>
+    <center><b>Technical Skills</b></center>
+    <ul>
+        <li>Languages: Python</li>
+        <li>Web Technologies: HTML, CSS, JavaScript</li>
+        <li>Database Management: MySQL</li>
+</body>
+</html>
